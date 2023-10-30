@@ -7,7 +7,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
     <Head>
-      To-Do List
+      ToDo List
     </Head>
   <Header/>
   <div className="container mx-auto min-h-screen">
